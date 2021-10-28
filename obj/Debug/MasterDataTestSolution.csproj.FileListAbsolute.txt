@@ -1,0 +1,7 @@
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\bin\Debug\MasterDataTestSolution.exe.config
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\bin\Debug\MasterDataTestSolution.exe
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\bin\Debug\MasterDataTestSolution.pdb
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\obj\Debug\MasterDataTestSolution.csproj.CoreCompileInputs.cache
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\obj\Debug\MasterDataTestSolution.exe
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\obj\Debug\MasterDataTestSolution.pdb
+D:\books\[4] work\masterdata test task\MasterDataTestSolution\MasterDataTestSolution\obj\Debug\MasterDataTestSolution.csproj.AssemblyReference.cache
